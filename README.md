@@ -39,3 +39,7 @@ This file contains all orders made by different users. Key findings:
 - The majority of orders are placed **during daytime**.
 - Customers typically order **once a week**, supported by peaks at **7, 14, 21, and 30** in the **Orders vs. Days Since Prior Order** graph.
 - A **Day of Week × Hour of Day** heatmap shows **Saturday afternoons** and **Sunday mornings** as prime ordering times.
+
+  [<img src="Plots/dow.png" alt="Orders per Day of Week" width="420">](Plots/dow.png)
+[<img src="Plots/orders.png" alt="Orders per customer" width="420">](Plots/dow.png)
+
